@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pedro Marques Prado
 - 👀 I’m interested in Games, movies/series, and programming.
-- 🌱 I’m currently learning programming in java, basic HTML/CSS/JAVASCRIPT.
-- 💞️ I’m looking to collaborate on a bootcamp development project on GWBR.
+- 🌱 I’m currently learning programming in java, basic HTML/CSS/JAVASCRIPT, C#.
 - 📫 How to reach me Email <marques.prado@hotmail.com>
 
 <!---
